@@ -16,4 +16,5 @@ mvn test
 
 mvn test -Dtest=RunVehicleEnquiry
 
+* Place chrome driver in src/test/resources/driver
 
